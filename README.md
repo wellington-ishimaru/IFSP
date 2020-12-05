@@ -1,3 +1,3 @@
 # IFSP
 Atividades do IFSP
-Lista de Exercícios
+Listas de Exercícios
